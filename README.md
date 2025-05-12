@@ -14,7 +14,8 @@ Escolaridade dos Pais: Quanto maior o nível educacional dos pais, melhores as n
 
 Optei por não usar o Power BI neste projeto justamente para reforçar que um bom analista de dados não deve se limitar a uma única ferramenta. O domínio de múltiplas soluções técnicas, como Python, permite análises mais profundas e flexíveis.
 
-![image](https://github.com/user-attachments/assets/0190c1aa-35bc-4635-b951-0d583b73e7a1)
+![image](https://github.com/user-attachments/assets/1a9c656d-5913-4f38-acbd-868aee3bcd78)
+
 
 Mapa heatmap gerado através do seaborn, nos mostra que o dataframe não contém valores nulos para ser tratado e possamos seguir sem comprometer o restante das nossas analises.
 
