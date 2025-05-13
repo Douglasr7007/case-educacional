@@ -1,10 +1,10 @@
-🎯 Análise Exploratória do Desempenho Estudantil 🎯
+🎯 Análise Exploratória do Desempenho Estudantil 
 
 Este projeto tem como objetivo analisar as pontuações dos alunos em três disciplinas — Matemática, Leitura e Escrita — a partir de variáveis sociais como gênero, escolaridade dos pais e participação em curso preparatório.
 
-Realizei todo o processo de ETL utilizando Python e a biblioteca pandas, desde a leitura e transformação dos dados até a análise e visualização com seaborn e matplotlib. Renomeei as colunas para o português e verifiquei a integridade do dataset (ausência de nulos e duplicados).
+🛠 Realizei todo o processo de ETL utilizando Python e a biblioteca pandas, desde a leitura e transformação dos dados até a análise e visualização com seaborn e matplotlib. Renomeei as colunas para o português e verifiquei a integridade do dataset (ausência de nulos e duplicados).
 
-As visualizações mostram claramente a variação das notas por grupo. Destaco alguns insights:
+🔍 As visualizações mostram claramente a variação das notas por grupo. Destaco alguns insights:
 
 Curso de Preparação: Alunos que fizeram o curso obtiveram médias mais altas nas três disciplinas.
 
@@ -76,4 +76,7 @@ Leitura e Escrita: A influência da escolaridade dos pais é ainda mais evidente
 💡 Conclusão:
 A análise sugere que o nível de instrução dos pais exerce um papel importante no rendimento escolar dos filhos. Isso pode estar relacionado ao suporte educacional oferecido em casa, à valorização do estudo no ambiente familiar e à maior probabilidade de acesso a recursos pedagógicos. Compreender essa relação pode ajudar a direcionar políticas públicas mais inclusivas e ações de reforço escolar para estudantes em contextos familiares menos favorecidos.
 
+💻 Ferramentas Utilizadas
+Python + pandas: Manipulação e tratamento de dados (ETL).
+Matplotlib e Seaborn: Visualizações com foco exploratório (boxplots, heatmap).
 
